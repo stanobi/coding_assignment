@@ -36,7 +36,7 @@ Instructions
     1. To setup the application,  
         a. Ensure that jdk8 is installed
         b. Ensure that maven is installed 
-        c. You will have to clone the project. 
+        c. You will have to clone the project. https://github.com/stanobi/coding_assignment.git
         d. Application uses h2 database. To visit the database, After Starting up the Application, please visit http://localhost:9988/h2-console, username is sa , password is password
     
     2. To Start up the application by running the command on the terminal 'mvn spring-boot:run' in the root directory
